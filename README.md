@@ -10,8 +10,7 @@ A modern, reusable **UI component library** built with **React, Tailwind CSS, an
 ✅ **Consistent UI** – Follows a design system for uniformity.  
 
 ## 📖 Documentation
-View the full Storybook documentation:
-🔗 Storybook Live Demo
+View the full Storybook documentation: https://react-design-system-v1.vercel.app
 
 
 ## ⚙️ Development
