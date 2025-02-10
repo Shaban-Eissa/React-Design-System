@@ -1,6 +1,7 @@
-# Design System With React 
+# React Design System
 
-![storybook-icon-2048x410-m440b17u](https://github.com/user-attachments/assets/07576405-b35c-4ad8-8f24-87f15807086d)
+![401618719-8611a5f9-b387-471b-8a34-ddf1a66f054d](https://github.com/user-attachments/assets/009b2ba6-d44f-4a1f-a292-a12bd81c8221)
+
 A modern, reusable **UI component library** built with **React, Tailwind CSS, and Storybook**. This system provides consistent, accessible, and scalable components for frontend development.  
 
 ## 🚀 Features  
